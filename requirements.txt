@@ -1,0 +1,12 @@
+yfinance
+kagglehub
+tensorflow
+sentance-transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+torchvision
+transformers
+tf-keras
